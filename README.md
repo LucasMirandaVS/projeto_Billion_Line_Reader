@@ -1,0 +1,2 @@
+Este projeto é uma adaptação do projeto The One Billion Row Challenge do Gunnar Morling.
+Nesta versão adaptada eu eu mudei a linguagem para Python e tentei otimizar o script para não precisar recorrer ao DuckDb ou Polars.
